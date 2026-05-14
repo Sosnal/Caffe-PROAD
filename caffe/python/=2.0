@@ -1,0 +1,11 @@
+Looking in indexes: http://mirrors.aliyun.com/pypi/simple
+Collecting python-gflags
+  Downloading http://mirrors.aliyun.com/pypi/packages/df/ec/e31302d355bcb9d207d9b858adc1ecc4a6d8c855730c8ba4ddbdd3f8eb8d/python-gflags-3.1.2.tar.gz (52 kB)
+Building wheels for collected packages: python-gflags
+  Building wheel for python-gflags (setup.py): started
+  Building wheel for python-gflags (setup.py): finished with status 'done'
+  Created wheel for python-gflags: filename=python_gflags-3.1.2-py3-none-any.whl size=57366 sha256=eec8644a4e68d38c212783f2c3310683d9d5a221ed73cfb332d58c50ce8bbe63
+  Stored in directory: /root/.cache/pip/wheels/55/20/85/94738507b5ea8ae1fe8a2aef21b760ec32f25b387948a8fd45
+Successfully built python-gflags
+Installing collected packages: python-gflags
+Successfully installed python-gflags-3.1.2

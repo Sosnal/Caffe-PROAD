@@ -1,0 +1,6 @@
+Looking in indexes: http://mirrors.aliyun.com/pypi/simple
+Collecting h5py
+  Downloading http://mirrors.aliyun.com/pypi/packages/86/43/fd0bd74462b3c3fb35d98568935d3e5a435c8ec24d45ef408ac8869166af/h5py-3.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (5.3 MB)
+Requirement already satisfied: numpy>=1.17.3 in /root/miniconda3/lib/python3.8/site-packages (from h5py) (1.24.2)
+Installing collected packages: h5py
+Successfully installed h5py-3.11.0

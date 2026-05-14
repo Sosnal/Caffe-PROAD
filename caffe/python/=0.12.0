@@ -1,0 +1,11 @@
+Looking in indexes: http://mirrors.aliyun.com/pypi/simple
+Collecting pandas
+  Downloading http://mirrors.aliyun.com/pypi/packages/f8/7f/5b047effafbdd34e52c9e2d7e44f729a0655efafb22198c45cf692cdc157/pandas-2.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.4 MB)
+Requirement already satisfied: pytz>=2020.1 in /root/miniconda3/lib/python3.8/site-packages (from pandas) (2022.7.1)
+Requirement already satisfied: numpy>=1.20.3 in /root/miniconda3/lib/python3.8/site-packages (from pandas) (1.24.2)
+Collecting tzdata>=2022.1
+  Downloading http://mirrors.aliyun.com/pypi/packages/65/58/f9c9e6be752e9fcb8b6a0ee9fb87e6e7a1f6bcab2cdc73f02bb7ba91ada0/tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+Requirement already satisfied: python-dateutil>=2.8.2 in /root/miniconda3/lib/python3.8/site-packages (from pandas) (2.8.2)
+Requirement already satisfied: six>=1.5 in /root/miniconda3/lib/python3.8/site-packages (from python-dateutil>=2.8.2->pandas) (1.16.0)
+Installing collected packages: tzdata, pandas
+Successfully installed pandas-2.0.3 tzdata-2024.1
